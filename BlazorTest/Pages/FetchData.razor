@@ -41,6 +41,7 @@ else
 @code {
     private WeatherForecast[]? forecasts;
 
+    // this is a test
     protected override async Task OnInitializedAsync()
     {
         forecasts = await ForecastService.GetForecastAsync(DateTime.Now);
