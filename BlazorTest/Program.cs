@@ -4,6 +4,8 @@ using Microsoft.AspNetCore.Components.Web;
 
 namespace BlazorTest
 {
+    // this is my change
+    // this is my change
     public class Program
     {
         public static void Main(string[] args)
