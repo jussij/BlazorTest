@@ -1,10 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup Label="Globals">
-    <SccProjectName></SccProjectName>
-    <SccProvider></SccProvider>
+    <SccProjectName>BlazorTest</SccProjectName>
+    <SccProvider>MSSCCI:Agent Git</SccProvider>
     <SccAuxPath />
-    <SccLocalPath></SccLocalPath>
+    <SccLocalPath>..</SccLocalPath>
   </PropertyGroup>
 
   <PropertyGroup>

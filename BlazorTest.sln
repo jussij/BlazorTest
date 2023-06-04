@@ -22,4 +22,14 @@ Global
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {14D42C17-0D9B-472C-8FF9-EADC88ABCD1D}
 	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccProjectName0 = BlazorTest
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Agent\u0020Git
+		CanCheckoutShared = false
+		SccProjectUniqueName1 = BlazorTest\\BlazorTest.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = BlazorTest\\
+	EndGlobalSection
 EndGlobal

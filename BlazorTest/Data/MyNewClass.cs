@@ -7,5 +7,6 @@ namespace BlazorTest.Data
 {
     public class MyNewClass
     {
+        // lets make a change
     }
 }
